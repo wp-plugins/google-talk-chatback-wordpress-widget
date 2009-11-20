@@ -52,11 +52,11 @@ $status = ($gtalkStatus->isOnline()?'online':'offline');
 
 if ($status == 'online')
 {
-echo '<a href="http://www.google.com/talk/service/badge/Start?tk='.$lineOne.'" onclick="window.open(\'http://www.google.com/talk/service/badge/Start?tk='.$lineOne.'\',\'popup\',\'width=250,height=450,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0\'); return false"><img src="/wp-content/plugins/google-talk-chatback/live-support.png" border="0"></img></a>';
+echo '<a href="http://www.google.com/talk/service/badge/Start?tk='.$lineOne.'" onclick="window.open(\'http://www.google.com/talk/service/badge/Start?tk='.$lineOne.'\',\'popup\',\'width=250,height=450,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0\'); return false"><img src="/wp-content/plugins/google-talk-chatback-wordpress-widget/live-support.png" border="0"></img></a>';
 }
 else
 {
-echo '<a href="'.$lineTwo.'"><img src="/wp-content/plugins/google-talk-chatback/contact-us.png" border="0"></img></a>';
+echo '<a href="'.$lineTwo.'"><img src="/wp-content/plugins/google-talk-chatback-wordpress-widget/contact-us.png" border="0"></img></a>';
 }
 }
 

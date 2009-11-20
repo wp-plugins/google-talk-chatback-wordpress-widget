@@ -22,7 +22,7 @@ For questions or suggestions please visit the author's site:
 
 == Installation ==
 
-1. Upload the `google-talk-chatback` folder to the `/wp-content/plugins/` directory
+1. Upload the `google-talk-chatback-wordpress-widget` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. In the 'Widgets' menu, place the GoogleChatback widget in the sidebar you would like it to appear
 4. Configure the Title, Chatback Hash and Contact URL attributes for the widget.
