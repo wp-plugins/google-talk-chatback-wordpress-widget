@@ -1,11 +1,7 @@
 <?php
 /*
  * Plugin Name: Google Talk Chatback Widget
-<<<<<<< .mine
  * Version: 1.4.2
-=======
- * Version: 1.0
->>>>>>> .r176714
  * Plugin URI: http://fixmonster.com/google-talk-chatback-wordpress-widget/
  * Description: Lets users on your blog chat with you live through Google Chatback. If you are offline it links to your contact form instead.  Get your Google Chatback hash key <a href="http://www.google.com/talk/service/badge/New">HERE</a>.  It is the part between "tk=" and "&amp" 
  * Author: Mike Duncan
