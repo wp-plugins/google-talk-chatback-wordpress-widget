@@ -4,7 +4,7 @@ Donate link: http://fixmonster.com/google-talk-chatback-wordpress-widget/
 Tags: google, google talk, google chatback, google talk chatback, contact form, live help, live support, live chat, web chat, gtalk, sidebar, widget, chat, instant message
 Requires at least: 2.0.2
 Tested up to: 2.8.6
-Stable tag: 1.1
+Stable tag: 1.2
 
 Lets users on your blog chat with you live through Google Chatback. If you are offline it links to your contact form instead.
 
@@ -58,6 +58,8 @@ Leave a message at http://fixmonster.com/google-talk-chatback-wordpress-widget a
 
 
 == Changelog ==
+= 1.2 =
+* Added CURL support
 
 = 1.0 =
 * First Release of the Google Talk Chatback Wordpress Widget
